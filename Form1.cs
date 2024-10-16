@@ -33,6 +33,17 @@ namespace pk31
                 var sqlString = $"Марка:{reader2.GetString(0)}, Номер:{reader2.GetString(1)}, Пробег:{reader2.GetInt32(2)}";
                 listBox2.Items.Add(sqlString);
             }
+            connection.Close();
+            connection.Open();
+            using var command3 = new MySqlCommand("SELECT  `arendator`.`FamilyName`,`samokat`.`mark`, `arenda`.`arendaStart`, `arenda`.`arendaStop` FROM `arenda` INNER JOIN `arendator` ON `arenda`.`idArendatora`=`arendator`.`id` INNER JOIN `samokat` ON `arenda`.`idSamokata`=`samokat`.`id`",connection);
+            using var reader3 = command3.ExecuteReader();
+            listBox3.Items.Clear();
+            while (reader3.Read())
+            {
+                var sqlString = $"Фамилия: {reader3.GetString(0)}, Марка:{reader3.GetString(1)}, Начало аренды:{reader3.GetDateTime(2)}, Конец аренды:{reader3.GetDateTime(3)}";
+                listBox3.Items.Add(sqlString);
+            }
+            connection.Close();
         }
     }
 }
