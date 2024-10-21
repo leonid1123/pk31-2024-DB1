@@ -35,7 +35,7 @@ namespace pk31
             }
             connection.Close();
             connection.Open();
-            using var command3 = new MySqlCommand("SELECT  `arendator`.`FamilyName`,`samokat`.`mark`, `arenda`.`arendaStart`, `arenda`.`arendaStop` FROM `arenda` INNER JOIN `arendator` ON `arenda`.`idArendatora`=`arendator`.`id` INNER JOIN `samokat` ON `arenda`.`idSamokata`=`samokat`.`id`",connection);
+            using var command3 = new MySqlCommand("SELECT  `arendator`.`FamilyName`,`samokat`.`mark`, `arenda`.`arendaStart`, `arenda`.`arendaStop` FROM `arenda` INNER JOIN `arendator` ON `arenda`.`idArendatora`=`arendator`.`id` INNER JOIN `samokat` ON `arenda`.`idSamokata`=`samokat`.`id`", connection);
             using var reader3 = command3.ExecuteReader();
             listBox3.Items.Clear();
             while (reader3.Read())
@@ -44,6 +44,12 @@ namespace pk31
                 listBox3.Items.Add(sqlString);
             }
             connection.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Arendator arendator = new Arendator();
+            arendator.Show();
         }
     }
 }
