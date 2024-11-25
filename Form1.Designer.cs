@@ -140,6 +140,7 @@
             button3.TabIndex = 9;
             button3.Text = "+";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button4
             // 

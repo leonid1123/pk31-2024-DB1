@@ -20,3 +20,4 @@ C:\Users\Leo\Source\Repos\pk31\obj\Debug\net8.0-windows\pk31.genruntimeconfig.ca
 C:\Users\Leo\Source\Repos\pk31\obj\Debug\net8.0-windows\ref\pk31.dll
 C:\Users\Leo\Source\Repos\pk31\obj\Debug\net8.0-windows\pk31.sourcelink.json
 C:\Users\Leo\Source\Repos\pk31\obj\Debug\net8.0-windows\pk31.Arendator.resources
+C:\Users\Leo\Source\Repos\pk31\obj\Debug\net8.0-windows\pk31.samokat.resources

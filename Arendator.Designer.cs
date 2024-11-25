@@ -39,6 +39,7 @@
             label4 = new Label();
             label5 = new Label();
             label6 = new Label();
+            listBox1 = new ListBox();
             SuspendLayout();
             // 
             // button1
@@ -140,11 +141,22 @@
             label6.Size = new Size(0, 37);
             label6.TabIndex = 11;
             // 
+            // listBox1
+            // 
+            listBox1.Font = new Font("Segoe UI", 16F);
+            listBox1.FormattingEnabled = true;
+            listBox1.ItemHeight = 37;
+            listBox1.Location = new Point(662, 3);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(666, 411);
+            listBox1.TabIndex = 12;
+            // 
             // Arendator
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1358, 450);
+            Controls.Add(listBox1);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(label4);
@@ -175,5 +187,6 @@
         private Label label4;
         private Label label5;
         private Label label6;
+        private ListBox listBox1;
     }
 }
