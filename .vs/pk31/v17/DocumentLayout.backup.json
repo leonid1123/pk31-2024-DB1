@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Leo\\Source\\Repos\\pk31\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|c:\\users\\leo\\source\\repos\\pk31\\arendator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|solutionrelative:arendator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|C:\\Users\\Leo\\Source\\Repos\\pk31\\arendator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|solutionrelative:arendator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|c:\\users\\leo\\source\\repos\\pk31\\samokat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|solutionrelative:samokat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|C:\\Users\\Leo\\Source\\Repos\\pk31\\samokat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|solutionrelative:samokat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|c:\\users\\leo\\source\\repos\\pk31\\arendator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|solutionrelative:arendator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|C:\\Users\\Leo\\Source\\Repos\\pk31\\arendator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|solutionrelative:arendator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F34B6B4-1D36-4CA8-BF8E-444F912E81F2}|pk31.csproj|c:\\users\\leo\\source\\repos\\pk31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,8 +81,7 @@
               "ToolTip": "C:\\Users\\Leo\\Source\\Repos\\pk31\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T06:29:56.537Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-11-25T06:29:56.537Z"
             },
             {
               "$type": "Document",
@@ -94,49 +93,47 @@
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAowDwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T06:30:30.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T06:30:30.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "samokat.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Source\\Repos\\pk31\\samokat.cs",
               "RelativeDocumentMoniker": "samokat.cs",
-              "ToolTip": "C:\\Users\\Leo\\Source\\Repos\\pk31\\samokat.cs",
-              "RelativeToolTip": "samokat.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwBcAAAAMAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Leo\\Source\\Repos\\pk31\\samokat.cs*",
+              "RelativeToolTip": "samokat.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T06:43:51.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "samokat.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Leo\\Source\\Repos\\pk31\\samokat.cs",
               "RelativeDocumentMoniker": "samokat.cs",
-              "ToolTip": "C:\\Users\\Leo\\Source\\Repos\\pk31\\samokat.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "samokat.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "C:\\Users\\Leo\\Source\\Repos\\pk31\\samokat.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "samokat.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T07:45:51.393Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Arendator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\Leo\\Source\\Repos\\pk31\\Arendator.cs",
               "RelativeDocumentMoniker": "Arendator.cs",
               "ToolTip": "C:\\Users\\Leo\\Source\\Repos\\pk31\\Arendator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Arendator.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:56:05.2Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-11-25T07:56:05.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Arendator.cs",
               "DocumentMoniker": "C:\\Users\\Leo\\Source\\Repos\\pk31\\Arendator.cs",
               "RelativeDocumentMoniker": "Arendator.cs",
@@ -144,8 +141,7 @@
               "RelativeToolTip": "Arendator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T07:56:07.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T07:56:07.939Z"
             }
           ]
         }

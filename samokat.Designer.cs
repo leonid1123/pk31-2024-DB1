@@ -144,6 +144,7 @@
             Controls.Add(textBox1);
             Name = "samokat";
             Text = "samokat";
+            Load += samokat_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ResumeLayout(false);
             PerformLayout();
